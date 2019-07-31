@@ -1,0 +1,7 @@
+yarn init  -> criar arquivo package.json
+yarn add @babel/cli -> interface de comadno com o babel, o babel irá deixar o javascript compatível com navegadores antigos
+yarn add @babel/core -> 
+yarn add @babel/preset-env -> entender qual ambiente está trabalhadno, exemplo navegador (node)
+yarn dev -> executa o comando configurado nos scripts, no caso o comando se chama dev e faz o bundle do arquivo com o babel tem o comando -w que monitora o arquivos e vai atualizando o arquivo final
+
+
